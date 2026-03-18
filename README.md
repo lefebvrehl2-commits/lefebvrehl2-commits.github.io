@@ -49,6 +49,7 @@ Je progresse chaque jour grâce à mes cours, mes projets personnels et ma curio
 - Réseaux  
 - Mathématiques appliquées  
 - Modélisation Merise (MCD, MLD, MPD)
+- SQL
 
 ---
 
@@ -56,9 +57,6 @@ Je progresse chaque jour grâce à mes cours, mes projets personnels et ma curio
 
 ### 🔹 Mini-site web personnel  
 Site statique en HTML/CSS pour me présenter et expérimenter avec la mise en page.
-
-### 🔹 Script Python de gestion de tâches  
-Application CLI permettant d’ajouter, supprimer et afficher des tâches.
 
 ### 🔹 Base de données étudiante (SQL)  
 Conception d’un MCD/MLD/MPD et réalisation d’une base de données simple.
@@ -75,8 +73,7 @@ Conception d’un MCD/MLD/MPD et réalisation d’une base de données simple.
 
 ## 🌱 J’apprends actuellement
 - JavaScript (DOM, logique, événements)  
-- SQL avancé  
-- Git workflow  
+- SQL avancé   
 - Modélisation Merise  
 
 ---
